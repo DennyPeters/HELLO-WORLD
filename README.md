@@ -7,3 +7,5 @@ New line of try this
 One more point
 
 Additional
+
+Auto add branch
